@@ -1,0 +1,29 @@
+# ─── Core RAG ─────────────────────────────────────────────
+langchain
+langchain-community
+langchain-text-splitters
+
+# ─── Embeddings & Reranking ───────────────────────────────
+sentence-transformers
+transformers
+torch
+
+# ─── Vector Store ─────────────────────────────────────────
+chromadb
+
+# ─── Sparse Retrieval ─────────────────────────────────────
+rank-bm25
+
+# ─── LLM Providers ────────────────────────────────────────
+
+groq
+
+# ─── Streamlit UI ─────────────────────────────────────────
+streamlit
+
+# ─── Utilities ────────────────────────────────────────────
+python-dotenv
+tiktoken
+numpy
+pandas
+tqdm
